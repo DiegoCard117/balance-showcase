@@ -6,7 +6,7 @@ Um app web para quem investe todo mês e quer calcular como aproximar a carteira
 
 ## Telas
 
-As capturas serão adicionadas pelo responsável pelo projeto conforme as [instruções de screenshots](screenshots/README.md).
+Capturas do app com uma carteira fictícia (tickers reais, quantidades e preços inventados). Como refazer: [instruções](screenshots/README.md).
 
 ### Painel consolidado
 
@@ -19,10 +19,6 @@ As capturas serão adicionadas pelo responsável pelo projeto conforme as [instr
 ### Imposto de renda
 
 ![Relatório de imposto de renda](screenshots/ir.png)
-
-### Importação da B3
-
-![Auditoria da importação do extrato da B3](screenshots/importacao-b3.png)
 
 ### Carteira
 
