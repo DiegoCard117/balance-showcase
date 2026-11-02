@@ -81,7 +81,7 @@ Veja o [diagrama e o fluxo da simulação de aporte](docs/architecture.md).
 
 O algoritmo de compra por aporte e o cálculo FIFO foram extraídos como uma biblioteca Python pura, permitindo apresentar essas regras sem expor o código do produto.
 
-[rebalance-by-deposit](https://github.com/<usuario>/rebalance-by-deposit) — link placeholder, a ser substituído pelo endereço do repositório derivado.
+[rebalance-by-deposit](https://github.com/DiegoCard117/rebalance-by-deposit)
 
 ## Artigos
 
