@@ -85,7 +85,9 @@ O algoritmo de compra por aporte e o cálculo FIFO foram extraídos como uma bib
 
 ## Artigos
 
-<!-- links dos artigos publicados entram aqui -->
+- [Rebalanceando uma carteira sem vender nada: o algoritmo do aporte](https://medium.com/@diegocardoso117/rebalanceando-uma-carteira-sem-vender-nada-o-algoritmo-do-aporte-d3c2667f8dbc)
+- [Rebalanceando a carteira só com o próximo aporte (sem vender)](https://medium.com/@diegocardoso117/rebalanceando-a-carteira-s%C3%B3-com-o-pr%C3%B3ximo-aporte-sem-vender-718315aa4a42)
+- [Imposto de renda sobre ações como um service em Django](https://medium.com/@diegocardoso117/imposto-de-renda-sobre-a%C3%A7%C3%B5es-como-um-service-em-django-d9e1129b9566)
 
 ## Aviso
 
